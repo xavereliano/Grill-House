@@ -1,0 +1,41 @@
+.logo-part{
+  padding-top:15px;
+  padding-left: 35px;
+  padding-bottom: 20px;
+}
+
+.info{
+}
+.home{
+  background-color:#d09448;
+
+  height:50px;
+  padding-top:0px;
+    padding-bottom:50px;
+}
+ul li{
+  list-style-type: none;
+  display:inline;
+  
+
+  
+
+}
+.span{
+  border-bottom:1px solid #fff;
+}
+
+.home a{
+  margin-left:70px;
+  
+}                
+
+.bg{
+   background: linear-gradient(to top, rgba(204,204,204,0), rgba(204,204,204,0.3));
+  height:auto;
+}
+.look{
+  margin-top:5px;
+
+}
+
